@@ -1,1 +1,1 @@
-# CovidPaper
+# Covid Paper
